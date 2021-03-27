@@ -25,7 +25,7 @@ SECRET_KEY = 'uv7l-g)$s$z)us%w^p%f4b451=6f!qznv&)a5(0)g^v2r7n6o5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['roxolea.pythonanywhere.com']
 
 
 # Application definition
